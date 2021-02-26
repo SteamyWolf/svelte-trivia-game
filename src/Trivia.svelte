@@ -36,6 +36,7 @@
         check_disabled = false;
         true_banner = false;
         false_banner = false;
+        disabled = true;
     }
 
     let done = false;
